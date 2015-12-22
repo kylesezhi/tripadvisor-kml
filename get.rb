@@ -3,6 +3,7 @@ require 'geocoder'
 require 'ruby_kml'
 require 'nokogiri'
 require 'ruby-progressbar'
+require 'date'
 
 site_url = 'http://www.tripadvisor.com/RestaurantsNear-g294305-d2538166-Plaza_Nunoa-Santiago_Santiago_Metropolitan_Region.html'
 
@@ -14,7 +15,7 @@ title = doc.css("[id=HEADING]").text
 listings = doc.css("div[class=near_listing]")
 
 locations = []
-bar = ProgressBar.create(:title => "Locating", :total => listings.size)
+bar = ProgressBar.create(:title => "Locating", :total => 15)
 
 listings[0..14].each { |l|
     place = l.css("[class=location_name]").text
@@ -37,5 +38,7 @@ locations.each { |l|
         :geometry => KML::Point.new(:coordinates=>l['lng'].to_s + ',' + l['lat'].to_s + ',0.0')
     )
 }
+
 kml.objects << folder
-kml.save 'stuff.kml'
+kml.save "santiago-#{Date.today.to_s}.kml"
+puts "santiago-#{Date.today.to_s}.kml saved."
