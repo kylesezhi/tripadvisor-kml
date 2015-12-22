@@ -28,7 +28,7 @@ listings[0..14].each { |l|
 }
 
 kml = KMLFile.new
-folder = KML::Folder.new(:name => 'Places')
+folder = KML::Folder.new(:name => title)
 locations.each { |l|
     folder.features << KML::Placemark.new(
         :name => l['name'],

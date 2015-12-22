@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.1">
   <Folder>
-    <name>Places</name>
+    <name>
+Restaurants near Plaza Nunoa
+</name>
     <Placemark>
       <name>La Destileria</name>
       <Point>

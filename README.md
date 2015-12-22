@@ -13,3 +13,4 @@ To do
 
 - Add comments to each entry
 - Add an icon for Google maps
+- Make work with: http://www.tripadvisor.com/Restaurants-g298566-Osaka_Osaka_Prefecture_Kinki.html
