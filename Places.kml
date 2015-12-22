@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Places</name>
+		<Placemark>
+			<name>Hostal Lackuntur</name>
+			<styleUrl>#icon-1037-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.19784270000002,-22.9082638,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ice cream - Heladeria Babalu</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.1994492,-22.9117102,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bakery - La Franchuteria</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.1977391,-22.910244500000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pizzeria El Charrua</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.20138690000002,-22.9117565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beef Soup - Baltinache Restaurant</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.2033825,-22.9137428,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Estaka</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.20103670000003,-22.9117034,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chain - Adobe</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.2042515,-22.91146,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>menu of day - La Pica Del Indio</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.2012904,-22.9109659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>coffee - Roots</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.1997991,-22.9123791,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>lunch - Red Deli</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.1993699,-22.91314,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salmon - Tierra Todo Naturale</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.2005715,-22.9115094,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>lunch - Sol Inti Restaurant</name>
+			<styleUrl>#icon-1085-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.2012689,-22.9112821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Almacén San Andrés</name>
+			<styleUrl>#icon-1101-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.19682869999997,-22.9081184,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1037-nodesc'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1085-nodesc'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1101-nodesc'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1101-biz-supermarket.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+	</Document>
+</kml>

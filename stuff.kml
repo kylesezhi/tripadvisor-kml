@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>Places</name>
+    <Placemark>
+      <name>La Destileria</name>
+      <Point>
+        <coordinates>-70.5929854,-33.4536413,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Vinocracia</name>
+      <Point>
+        <coordinates>-70.5947255,-33.4550738,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Filippo</name>
+      <Point>
+        <coordinates>-70.5943695,-33.4552123,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Proboca</name>
+      <Point>
+        <coordinates>-70.5931377,-33.4534279,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Taverna della Piazza</name>
+      <Point>
+        <coordinates>-70.593215,-33.4552613,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Finestra</name>
+      <Point>
+        <coordinates>-70.5948373,-33.4553941,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Batuta</name>
+      <Point>
+        <coordinates>-70.5941948,-33.4546671,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tapas y Birra</name>
+      <Point>
+        <coordinates>-70.6692655,-33.4488897,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taxco Cantina</name>
+      <Point>
+        <coordinates>-70.6692655,-33.4488897,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barbudo Beer Garden</name>
+      <Point>
+        <coordinates>-70.5940671,-33.4534012,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akai Sushi</name>
+      <Point>
+        <coordinates>-70.76395500000001,-33.5483079,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Filippo</name>
+      <Point>
+        <coordinates>-70.6291859,-33.4045556,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Lanzas</name>
+      <Point>
+        <coordinates>-70.5941922,-33.4554856,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Niu Sushi Bar</name>
+      <Point>
+        <coordinates>-70.6291859,-33.4045556,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kudasaru Sushi</name>
+      <Point>
+        <coordinates>-70.5919662,-33.4551375,0.0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>
