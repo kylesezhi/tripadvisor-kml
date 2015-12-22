@@ -11,5 +11,5 @@ Put your site URL in line 7 and run the script.
 To do
 ----------
 
-Add comments to each entry
-Add an icon for Google maps
+- Add comments to each entry
+- Add an icon for Google maps
